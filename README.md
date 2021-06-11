@@ -14,7 +14,6 @@ npm i @xerafiu/brisk
 This tool has a kernel making it possible to load the different functions of the different categories which allows the community of developers to participate easily in improving this tool.
 
 The structure is :
-core
   - category (folder)
     - subcategory (file)
       - functions (code)
