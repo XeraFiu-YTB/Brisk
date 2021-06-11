@@ -34,6 +34,14 @@ While waiting for me to do some documentation, you can display the list of categ
 ```js
 const brisk = require("@xerafiu/brisk")
 
+let categories = Object.getOwnPropertyNames(brisk)
+for(let category of categories) {
+    let subcategories = Object.getOwnPropertyNames(brisk[category])
+    for(let subcategory of subcategories) {
+        let functions = Object.getOwnPropertyNames(brisk[category][subcategory])
+        console.log(`Category: ${category} | Subcategory: ${subcategory} | functions: ${functions.join(", ")}`)
+    }
+}
 ```
 
 ## License
