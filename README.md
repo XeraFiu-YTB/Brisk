@@ -2,7 +2,7 @@
 
 > A library to gain time while developing in Javascript
 
-[![NPM Version][npm-image]][npm-url]
+![npm (scoped)](https://img.shields.io/npm/v/@xerafiu/brisk)
 
 ## Install
 
