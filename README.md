@@ -2,7 +2,7 @@
 
 > A library to gain time while developing in Javascript
 
-![npm (scoped)](https://img.shields.io/npm/v/@xerafiu/brisk)
+![npm (scoped)](https://img.shields.io/npm/v/@xerafiu/brisk?color=blue&label=%40xerafiu%2Fbrisk)
 
 ## Install
 
@@ -39,7 +39,3 @@ const brisk = require("@xerafiu/brisk")
 ## License
 
 [MIT](http://vjpr.mit-license.org)
-
-[npm-image]: https://img.shields.io/npm/v/live-xxx.svg
-[npm-url]: https://img.shields.io/npm/v/@xerafiu/brisk
-
