@@ -1,6 +1,7 @@
 # @xerafiu/brisk
 
 > A library to gain time while developing in Javascript
+
 [![NPM Version][npm-image]][npm-url]
 
 ## Install
@@ -40,5 +41,5 @@ const brisk = require("@xerafiu/brisk")
 [MIT](http://vjpr.mit-license.org)
 
 [npm-image]: https://img.shields.io/npm/v/live-xxx.svg
-[npm-url]: https://www.npmjs.com/package/@xerafiu/brisk
+[npm-url]: https://img.shields.io/npm/v/@xerafiu/brisk
 
