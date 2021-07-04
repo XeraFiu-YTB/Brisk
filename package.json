@@ -1,0 +1,14 @@
+{
+    "name": "@xerafiu/brisk",
+    "version": "1.0.0",
+    "description": "A library to gain time while developing in Javascript",
+    "license": "MIT",
+    "repository": "XeraFiu-YTB/Brisk",
+    "main": "main.js",
+    "keywords": [
+        "brisk",
+        "npm",
+        "package",
+        "xerafiu"
+    ]
+}
